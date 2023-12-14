@@ -158,7 +158,7 @@
         <label>DevOps Demo Custom Object Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>DevOps Demo Custom Objects</pluralLabel>
+    <pluralLabel>DevOps Demo Custom Objects1</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
