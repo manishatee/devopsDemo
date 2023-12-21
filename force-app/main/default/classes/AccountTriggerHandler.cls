@@ -3,5 +3,6 @@ public with sharing class AccountTriggerHandler {
         system.debug ('this is a debug');
         System.debug('####');
         System.debug('another statement');
+        System.debug('for the demo');
     }
 }
